@@ -51,6 +51,7 @@ The malware leverages **DLL side-loading**, a stealthy technique where a legitim
 ## 🛠️ Steps Taken
 
 Email Containment 
+
 Upon receiving the alert, we began our investigation by verifying the details of the email. The alert confirmed that the phishing email was sent to **Dylan** at the address `dylan@letsdefend.io`. The action status was **"Allowed,"** indicating that the email successfully reached the user's inbox.
 
 <img src="https://i.imgur.com/AYjyV5t.png" height="80%" width="80%" alt="Destination address(Dylan) Action=Allowed"/>
