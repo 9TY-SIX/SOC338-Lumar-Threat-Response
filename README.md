@@ -1,5 +1,5 @@
 <h1>🛡️Case Study: Lumma Stealer via DLL Side-Loading (Click Fix Phishing)</h1>
-<h2>SOC338-Letsdefend.io</h2>
+<h2>SOC338-Letsdefend.io SIEM</h2>
 
 ---
 
